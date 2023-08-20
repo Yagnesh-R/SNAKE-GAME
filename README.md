@@ -41,7 +41,6 @@ This Snake Game is implemented using HTML, CSS, and JavaScript. The main compone
 The game is implemented using HTML5 Canvas for rendering graphics and JavaScript for game logic.
 
 - The snake's movement and direction are controlled by capturing arrow key events.
-- The game loop is implemented using requestAnimationFrame to ensure smooth animations.
 - The snake's body is represented as an array of linked segments. As the snake eats food, new segments are added to the array.
 - Food is placed randomly on the game grid, and the snake grows longer each time it consumes food.
 - Collision detection is used to check for collisions with walls and the snake's body.
