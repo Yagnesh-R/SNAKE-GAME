@@ -7,6 +7,7 @@ Snake Game Demo
 - Prerequisites
 - How to Play
 - Game Mechanics
+- Game Logic Overview
 - Customization
 - Acknowledgments
 
@@ -24,7 +25,7 @@ Snake Game Demo
 
 3. Objective: Your objective is to eat the food that appears on the screen. Each time the snake eats a piece of food, it grows longer.
 
-40.Game Over: The game ends if the snake collides with the walls of the game area or if it collides with itself. Try to achieve the highest possible score by eating as much food as you can without crashing!
+4.Game Over: The game ends if the snake collides with the walls of the game area or if it collides with itself. Try to achieve the highest possible score by eating as much food as you can without crashing!
 
 # Game Mechanics
 
@@ -36,7 +37,19 @@ This Snake Game is implemented using HTML, CSS, and JavaScript. The main compone
 
 - script.js: This file contains the game logic written in JavaScript. It handles the movement of the snake, generating food, detecting collisions, and updating the game state.
 
+# Game Logic Overview
+
+The game is implemented using HTML5 Canvas for rendering graphics and JavaScript for game logic.
+
+- The snake's movement and direction are controlled by capturing arrow key events.
+- The game loop is implemented using requestAnimationFrame to ensure smooth animations.
+- The snake's body is represented as an array of linked segments. As the snake eats food, new segments are added to the array.
+- Food is placed randomly on the game grid, and the snake grows longer each time it consumes food.
+- Collision detection is used to check for collisions with walls and the snake's body.
+- When the game ends, the player's score is displayed, and they have the option to restart the game.
+
 # Customization
+
 Feel free to customize the game according to your preferences:
 
 Adjust the speed of the snake by modifying the snakeSpeed variable in the script.js file.
