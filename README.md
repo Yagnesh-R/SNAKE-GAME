@@ -4,7 +4,7 @@ Welcome to the Snake Game project! This is a classic implementation of the Snake
 Snake Game Demo
 
 # Table of Contents : 
-- Prerequisites
+- Prerequisites 
 - How to Play
 - Game Mechanics
 - Game Logic Overview
