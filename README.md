@@ -21,19 +21,6 @@ Snake Game Demo
 - A modern web browser (e.g., Google Chrome, Mozilla Firefox)
 - A text editor or integrated development environment (IDE) for code editing
 
-# Installation
-Clone the repository to your local machine or download the source code as a ZIP file.
-
-bash
-Copy code
-git clone https://github.com/your-username/snake-game.git
-Navigate to the project directory using your terminal or command prompt.
-
-bash
-Copy code
-cd snake-game
-Open the index.html file in your preferred web browser to start playing the game.
-
 # How to Play
 Use the arrow keys (Up, Down, Left, Right) on your keyboard to control the direction of the snake.
 The snake will move continuously in the direction it's facing.
