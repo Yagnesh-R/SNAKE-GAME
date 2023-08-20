@@ -24,7 +24,7 @@ Welcome to the Snake Game project! This is a classic implementation of the Snake
 
 3. Objective: Your objective is to eat the food that appears on the screen. Each time the snake eats a piece of food, it grows longer.
 
-4.Game Over: The game ends if the snake collides with the walls of the game area or if it collides with itself. Try to achieve the highest possible score by eating as much food as you can without crashing!
+4. Game Over: The game ends if the snake collides with the walls of the game area or if it collides with itself. Try to achieve the highest possible score by eating as much food as you can without crashing!
 
 # Game Mechanics
 
