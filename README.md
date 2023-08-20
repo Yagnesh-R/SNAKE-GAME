@@ -7,7 +7,6 @@ Snake Game Demo
 # Table of Contents : 
 - Getting Started
 - Prerequisites
-- Installation
 - How to Play
 - Game Mechanics
 - Customization
