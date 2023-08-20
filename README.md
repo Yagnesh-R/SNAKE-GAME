@@ -1,5 +1,5 @@
 # SNAKE-GAME
-Welcome to the Snake Game project! This is a classic implementation of the Snake game using HTML, CSS, and JavaScript. In this game, players control a snake that grows longer as it eats food, while avoiding collisions with the walls and its own body.
+Welcome to the Snake Game project! This is a classic implementation of the Snake game using HTML, CSS, and JavaScript. In this game, players control a snake that grows longer as it eats food, while avoiding collisions with the walls and its own body. Take a trip down memory lane and enjoy hours of entertainment as you control the snake and try to eat as much food as possible, all while avoiding collisions with the walls and yourself.
 
 Snake Game Demo
 
@@ -18,10 +18,13 @@ Snake Game Demo
 - A text editor or integrated development environment (IDE) for code editing
 
 # How to Play
-Use the arrow keys (Up, Down, Left, Right) on your keyboard to control the direction of the snake.
-The snake will move continuously in the direction it's facing.
-Your objective is to eat the food that appears on the screen. Each time the snake eats food, it will grow longer.
-The game ends if the snake collides with the walls or its own body.
+1. Getting Started: Open the index.html file in a modern web browser to start the game.
+
+2. Controls: Use the arrow keys (up, down, left, and right) on your keyboard to control the snake's direction. The snake will continue moving in the chosen direction until you change it.
+
+3. Objective: Your objective is to eat the food that appears on the screen. Each time the snake eats a piece of food, it grows longer.
+
+40.Game Over: The game ends if the snake collides with the walls of the game area or if it collides with itself. Try to achieve the highest possible score by eating as much food as you can without crashing!
 
 # Game Mechanics
 
