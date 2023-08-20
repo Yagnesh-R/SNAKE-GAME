@@ -31,11 +31,11 @@ The game ends if the snake collides with the walls or its own body.
 
 This Snake Game is implemented using HTML, CSS, and JavaScript. The main components of the game include:
 
-index.html: This file contains the structure of the game, including the game board and necessary elements.
+- index.html: This file contains the structure of the game, including the game board and necessary elements.
 
-style.css: This file contains the styling for the game, including the appearance of the snake, food, and game board.
+- style.css: This file contains the styling for the game, including the appearance of the snake, food, and game board.
 
-script.js: This file contains the game logic written in JavaScript. It handles the movement of the snake, generating food, detecting collisions, and updating the game state.
+- script.js: This file contains the game logic written in JavaScript. It handles the movement of the snake, generating food, detecting collisions, and updating the game state.
 
 # Customization
 Feel free to customize the game according to your preferences:
