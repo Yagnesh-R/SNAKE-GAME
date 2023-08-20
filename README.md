@@ -14,6 +14,13 @@ Snake Game Demo
 - Acknowledgments
 - Getting Started
 
+
+# Prerequisites
+ Before you begin, ensure you have the following software installed on your computer:
+
+- A modern web browser (e.g., Google Chrome, Mozilla Firefox)
+- A text editor or integrated development environment (IDE) for code editing
+
 # Installation
 Clone the repository to your local machine or download the source code as a ZIP file.
 
