@@ -1,5 +1,4 @@
 # SNAKE-GAME
-Snake Game 
 Welcome to the Snake Game project! This is a classic implementation of the Snake game using HTML, CSS, and JavaScript. In this game, players control a snake that grows longer as it eats food, while avoiding collisions with the walls and its own body.
 
 Snake Game Demo
