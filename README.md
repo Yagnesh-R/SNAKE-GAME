@@ -5,13 +5,11 @@ Welcome to the Snake Game project! This is a classic implementation of the Snake
 Snake Game Demo
 
 # Table of Contents : 
-- Getting Started
 - Prerequisites
 - How to Play
 - Game Mechanics
 - Customization
 - Acknowledgments
-- Getting Started
 
 
 # Prerequisites
