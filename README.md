@@ -49,16 +49,20 @@ The game is implemented using HTML5 Canvas for rendering graphics and JavaScript
 
 # Customization
 
-Feel free to customize the game according to your preferences:
+Feel free to customize and enhance the game as you like! Here are a few ideas:
 
-Adjust the speed of the snake by modifying the snakeSpeed variable in the script.js file.
+- Game Design: Modify the CSS styles in the 'style.css' file to change the appearance of the game, such as colors, fonts, and layout.
 
-Change the size of the game board, snake segments, or food by adjusting CSS properties in the style.css file.
+- Difficulty Levels: Adjust the speed of the snake's movement to create different difficulty levels. You can modify the speed variable in the 'script.js' file.
+
+- Grid Size: Experiment with different grid sizes by changing the 'gridSize' variable in the 'script.js' file. This can affect the overall layout and difficulty of the game.
 
 Experiment with different colors and visual elements to give the game a unique look.
 
 # Acknowledgments
-This Snake Game project was created as a learning exercise and is inspired by the classic Snake game found on many early mobile phones and computers. It serves as a demonstration of basic HTML, CSS, and JavaScript concepts in game development.
+
+This Snake Game was created as a learning exercise and  is inspired by the classic Snake game that has been enjoyed by generations. It was built as a project to learn and demonstrate the usage of HTML, CSS, and JavaScript for game development.
+
 
 Special thanks to the online coding communities, tutorials, and resources that contributed to the development of this project.
 
